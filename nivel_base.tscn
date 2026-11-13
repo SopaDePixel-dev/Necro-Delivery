@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://bxdfdp4cx28nq"]
+
+[node name="NivelBase" type="Node2D" unique_id=2046780559]
+position = Vector2(0, 4)
+
+[node name="CharacterBody2D" type="CharacterBody2D" parent="." unique_id=318471766]
